@@ -1,5 +1,5 @@
 window.album = {
-    title: "2002 - Espanhol",
+    title: "2002 - Em Espanhol",
     artist: "Zezé Di Camargo & Luciano",
     releaseDate: "1 de março de 2002",
     recordingDate: "2001",
